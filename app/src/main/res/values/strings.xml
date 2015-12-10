@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Make Me Do It</string>
+    <string name="didit">I\'ve Done It!</string>
+    <string name="text_1">I want to</string>
+    <string name="text_2">When?</string>
+    <string name="action_settings">Settings</string>
+</resources>
