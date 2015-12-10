@@ -11,4 +11,5 @@ To be more precise, purpose is to irritate you until you finally give up and JUS
 Feedback Welcome :)
 
 NOTE: Reminder would be removed if the device is rebooted or turned off.
-NOTE: APK is added to the main directory by the name 'Make Me Do It.apk'
+
+NOTE: APK is added to the master branch by the name 'Make Me Do It.apk'
