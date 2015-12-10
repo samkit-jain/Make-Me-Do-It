@@ -12,4 +12,4 @@ Feedback Welcome :)
 
 NOTE: Reminder would be removed if the device is rebooted or turned off.
 
-NOTE: APK is added to the master branch by the name 'Make Me Do It.apk'
+NOTE: APK can be found at app->build->outputs->apk->app-debug.apk
