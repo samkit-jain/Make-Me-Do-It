@@ -11,5 +11,3 @@ To be more precise, purpose is to irritate you until you finally give up and JUS
 Feedback Welcome :)
 
 NOTE: Reminder would be removed if the device is rebooted or turned off.
-
-NOTE: APK can be found at app->build->outputs->apk->app-debug.apk
